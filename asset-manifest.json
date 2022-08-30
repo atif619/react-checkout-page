@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-checkout-page/static/css/main.e58e06ef.css",
+    "main.js": "/react-checkout-page/static/js/main.38cb24eb.js",
+    "static/media/cartItem2.png": "/react-checkout-page/static/media/cartItem2.396ec5fb3992402eb03a.png",
+    "static/media/cartItem1.png": "/react-checkout-page/static/media/cartItem1.9d83dd22c277bbd34fac.png",
+    "index.html": "/react-checkout-page/index.html",
+    "main.e58e06ef.css.map": "/react-checkout-page/static/css/main.e58e06ef.css.map",
+    "main.38cb24eb.js.map": "/react-checkout-page/static/js/main.38cb24eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e58e06ef.css",
+    "static/js/main.38cb24eb.js"
+  ]
+}
